@@ -1,0 +1,20 @@
+Week of Nov 9-13
+
+1. create a git repository called notebook with two branches
+   master and development
+   save all your notebook py file to the development branch and also master branch
+
+2. create a folder called practice under yifan's home directory
+   under practice create a sub-directory called file
+   
+3. play with the code in this URL to get familiar with file operations under the directory you just created
+
+   https://www.geeksforgeeks.org/file-handling-python/
+
+4. modify notebook 
+   I want to read from notebook.txt file when I list note(s)
+   and I also want to save what I added or modified to notebook.txt file
+   think about what you need to midify existing classes to achieve that and experiment it.
+   you can play it anyway you want casue you already saved the working version in github master.
+   push to development branch for interim deveopment code
+   
